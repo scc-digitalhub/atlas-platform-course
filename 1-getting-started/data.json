@@ -1,0 +1,133 @@
+{
+"type": "FeatureCollection",
+"features":[
+{"type": "Feature",
+"properties": {"codice": "T0146","nome": "Aldeno (San Zeno)","quota":"182","datetime":"2026-11-13T11:30:00+01","val_humidex":"15,5","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.091231,
+45.968006
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0437","nome": "Canazei (Gries)","quota":"1465","datetime":"2026-11-13T11:30:00+01","val_humidex":"4,9","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.766852,
+46.478318
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0421","nome": "Caoria","quota":"803","datetime":"2026-11-13T11:30:00+01","val_humidex":"11,6","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.683911,
+46.192017
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0367","nome": "Cavalese","quota":"958","datetime":"2026-11-13T11:30:00+01","val_humidex":"9,9","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.451713,
+46.284782
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0010","nome": "Levico (Terme)","quota":"502","datetime":"2026-11-13T11:30:00+01","val_humidex":"13,1","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.305143,
+46.010558
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0074","nome": "Male'","quota":"720","datetime":"2026-11-13T11:30:00+01","val_humidex":"11,3","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+10.918411,
+46.351598
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0420","nome": "Mezzano","quota":"640","datetime":"2026-11-13T11:30:00+01","val_humidex":"13","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.812625,
+46.154673
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0368","nome": "Monte Bondone (Viote)","quota":"1490","datetime":"2026-11-13T11:30:00+01","val_humidex":"4,5","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.054869,
+46.013651
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0409","nome": "Pergine Valsugana","quota":"498","datetime":"2026-11-13T11:30:00+01","val_humidex":"12,7","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.24426731,
+46.06188027
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0175","nome": "Pinzolo","quota":"760","datetime":"2026-11-13T11:30:00+01","val_humidex":"11,5","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+10.757484,
+46.156507
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0147","nome": "Rovereto","quota":"203","datetime":"2026-11-13T11:30:00+01","val_humidex":"14,9","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.043987,
+45.896325
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0179","nome": "Tione","quota":"533","datetime":"2026-11-13T11:30:00+01","val_humidex":"12,9","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+10.730879,
+46.041087
+]
+}
+},
+{"type": "Feature",
+"properties": {"codice": "T0135","nome": "Trento (Roncafort)","quota":"194","datetime":"2026-11-13T11:30:00+01","val_humidex":"15,7","desc_humidex":"Normalita'","consigli_humidex":"Tutti sono a proprio agio.","colore":"#AFEEEE"},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.10137,
+46.095645
+]
+}
+}]}
